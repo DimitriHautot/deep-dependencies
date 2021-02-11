@@ -5,7 +5,7 @@
     <parent>
         <artifactId>parent-module</artifactId>
         <groupId>com.github.danielflower.mavenplugins.testprojects.deepdependencies</groupId>
-        <version>1.2.3-SNAPSHOT</version>
+        <version>1.2.3.2</version>
         <relativePath>../parent-module/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
