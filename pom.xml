@@ -30,6 +30,7 @@
                     <releaseGoals>
                         <releaseGoal>install</releaseGoal>
                     </releaseGoals>
+                  <serverId>gh-dimitri</serverId>
                 </configuration>
             </plugin>
         </plugins>
