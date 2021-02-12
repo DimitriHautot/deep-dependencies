@@ -30,6 +30,8 @@
                     <releaseGoals>
                         <releaseGoal>install</releaseGoal>
                     </releaseGoals>
+                    <skipTests>true</skipTests>
+                    <noChangesAction>ReleaseNone</noChangesAction>
                   <serverId>gh-dimitri</serverId>
                 </configuration>
             </plugin>
